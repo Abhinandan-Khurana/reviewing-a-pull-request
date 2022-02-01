@@ -14,7 +14,7 @@ To play the game:
 
 Left reviews and line comments
 Created a file and made a commit
-Opened a pull request
+Opened a pull requests
 
 
 
